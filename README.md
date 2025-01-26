@@ -1,5 +1,5 @@
 # Bayesian Parameter Estimation
-This is envisioned to be a comprehensive resource for Bayesian parameter estimation.
+This is envisioned to be a comprehensive resource for understanding Bayesian parameter estimation.
 
 To-do:
 * The readme should contain a short description of the whole thing, with pointers to notebooks that go into specific details
